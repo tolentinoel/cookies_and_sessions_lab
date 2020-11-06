@@ -7,3 +7,4 @@ class ProductsController < ApplicationController
     render :index
   end
 end
+
